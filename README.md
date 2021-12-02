@@ -1,4 +1,4 @@
-# MLE for GPP and ER models in Akahira River in Nakano et al., 2022
+# MLE for GPP and ER models in Nakano et al., 2022
 
 (c) 2021 OKADA Teruhisa
 
